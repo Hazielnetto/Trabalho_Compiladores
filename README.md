@@ -51,7 +51,7 @@ no local selecionados, manter no editor o texto que está sendo editado, limpar 
 atualizar a barra de status; (2) caso contrário, salvar as alterações do arquivo editado, manter no editor o texto
 que está sendo editado, limpar a área para mensagens2 e manter a barra de status. Devem ser salvos
 arquivos texto (extensão .txt) compatíveis com o Notepad.
-- [ ] A ação associada a cada um dos botões de edição e as teclas de atalho associadas (copiar, colar, recortar) é
+- [x] A ação associada a cada um dos botões de edição e as teclas de atalho associadas (copiar, colar, recortar) é
 a mesma encontrada nos editores de texto convencionais. 
 - [ ] Quando o botão compilar for pressionado (ou a tecla de atalho correspondente), a ação deve ser: apresentar
 mensagem (compilação de programas ainda não foi implementada) na área para mensagens.
